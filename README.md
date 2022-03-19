@@ -1,7 +1,7 @@
 
 
 <h1 align="center">Hi 👋, I'm Aniket A Tarale</h1>
-<h3 align="center">A passionate Competitive Programming & Web Dev</h3>
+<h3 align="center">A passionate Competitive Programmer & Web Developer</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=anni-257&label=Profile%20views&color=0e75b6&style=flat" alt="anni-257" /> </p>
 
@@ -15,7 +15,7 @@
 
 - 📫 How to reach me **taraleaniket257@gmail.com**
 
-- ⚡ Fun fact **I think I'm Creative**
+- ⚡ Fun fact **I think I can help you to clear your doubts**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
