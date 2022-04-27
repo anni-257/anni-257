@@ -11,7 +11,7 @@
 
 - 🌱 I’m currently learning **DSA | Web Dev**
 
-- 💬 Ask me about **C++ | Java | Oop | DSA**
+- 💬 Ask me about ** C++ | Java | Oop | DSA **
 
 - 📫 How to reach me **taraleaniket257@gmail.com**
 
